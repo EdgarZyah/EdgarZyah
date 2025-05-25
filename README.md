@@ -1,3 +1,4 @@
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3694538" style='border:none;'></iframe>
 <h2 align="center">📊 GitHub Stats:</h2>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Edgarzyah&theme=react&show_icons=true&hide_border=true&count_private=true" alt="edgarzyah" /></p>
 
