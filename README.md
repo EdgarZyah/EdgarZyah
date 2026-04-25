@@ -61,13 +61,17 @@ I specialize in building robust backends that do all the heavy lifting for your 
 </div>
 
 <br/>  
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/EdgarZyah/EdgarZyah/929a2d7973cda259e9479bc04df1dcafa875b409/snake.svg"
+    width="1000"
+  />
+</p>
+
+<br />
 
 <div align="center">
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=edgarzyah&style=flat-square)
 
 </div>
-
-<br/>  
-
-<br />
