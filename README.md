@@ -73,9 +73,11 @@ I specialize in building robust backends that do all the heavy lifting for your 
   
 
 <br/>  
+<div align="center">
 
-![Profile views counter](https://komarev.com/ghpvc/?username=edgarzyah&&style=flat-square)  
-  
+![Profile views counter](https://komarev.com/ghpvc/?username=edgarzyah&style=flat-square)
+
+</div>
 
 <br/>  
 
