@@ -1,32 +1,17 @@
 <img src=https://github.com/EdgarZyah/EdgarZyah/blob/0c7356f1bd6b2af6680a7e84ff26acaf5fd52c1f/banner.png />
 
 ## Hey 👋, I'm Edgarzyah  
-  
 
 <a href="https://github.com/Edgarzyah" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-  
-
-
 
 ### Glad to see you here!  
 I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
 I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
   
-
 <br/>  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -75,12 +60,8 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 </div>
 
-
 <br/>  
 
-  
-
-<br/>  
 <div align="center">
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=edgarzyah&style=flat-square)
@@ -88,6 +69,5 @@ I specialize in building robust backends that do all the heavy lifting for your 
 </div>
 
 <br/>  
-
 
 <br />
