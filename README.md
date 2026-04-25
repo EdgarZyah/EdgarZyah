@@ -57,14 +57,20 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Github Stats
 
 <div align="center">
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=edgarzyah&theme=algolia&hide_border=false"
+    height="180"
+  /><br/>  
   <img
     src="https://github-readme-stats.vercel.app/api?username=edgarzyah&show_icons=true&count_private=true&hide_border=false&theme=algolia"
     height="165"
-  />
+  /><br/>  
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarzyah&hide_border=false&layout=compact&theme=algolia"
     height="165"
   />
+
 </div>
 
 
