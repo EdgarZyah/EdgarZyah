@@ -1,3 +1,5 @@
+<img src=https://github.com/EdgarZyah/EdgarZyah/blob/0c7356f1bd6b2af6680a7e84ff26acaf5fd52c1f/banner.png />
+
 ## Hey 👋, I'm Edgarzyah  
   
 
