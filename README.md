@@ -7,10 +7,6 @@
 </a>
 
 ### Glad to see you here!  
-I'm a full-stack developer who turned years of freelancing into a full-time career. This lets me build polished frontends backed by robust, production-ready APIs.
-
-I specialize in backends that handle the heavy lifting - lightweight, distributed, and secure by design. I also open to discuss about system architecture, databases, security, DevOps, and Blockchain.
-  
 <br/>  
 
 ## Languages and Tools  
